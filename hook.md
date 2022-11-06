@@ -15,6 +15,6 @@ Here I regularly upload some crucial tips on hooks in React:
 + Performs side effects
 + Runs on the first render and anytime any devepndecy value changes
 
-- useEffect(<function>, <dependency>);
+- useEffect(function, dependency);
 
 
